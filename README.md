@@ -1,0 +1,2 @@
+# Assignment_4_EDIT
+All I did here was use the same ACS GeoJSON from the class example, but filter it by the number of people living in the same household 1 year ago per census tract. I then added a 311 api layer for open graffiti complaints. I did have trouble when it came to my outside-of-map interactions, so mine is basically just an exact copy of the one from the example code, just layed out on the bottom of the page. I was attempting to make fire events from the api layer, but was unsuccessful.
